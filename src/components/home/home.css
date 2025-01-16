@@ -1,0 +1,34 @@
+.welcome__contianer{
+    margin-top: 80px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+  }
+  .welcome{
+    font-weight: 700;
+    font-size: 550%;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 0px;
+    opacity: 0.9;
+    position: relative;
+    
+}
+.welcome::after{
+    content: '|';
+    position: absolute;
+    right: 0;
+    color:#f8e4e4 ;
+    background-color: #f8e4e4;
+    width: 100%;
+    animation: typing 4s steps(50) infinite;
+  }
+  @keyframes typing{
+    to{
+      width: 0%;
+    }
+  }
+
+  .home-area{
+    align-content: center;
+  }
