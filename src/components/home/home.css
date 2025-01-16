@@ -32,3 +32,44 @@
   .home-area{
     align-content: center;
   }
+  .welc__main{
+    display: flex;
+    padding-left: 75px;
+    padding-right: 40px;
+    text-align: center;
+    opacity: 0.7;
+  }
+  .welcome__top{
+    font-style: italic;
+    font-size: large;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 80px;
+  }
+  .logos{
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 75px;
+    
+  }
+  #welcome__body{
+    justify-content: center;
+    display: inline-flex;
+    font-size: 170%;
+    font-style: normal;
+    font-family: sans-serif;
+    margin-left: 160px;
+    margin-top: 150px;
+  }
+  .fisrtpic{
+    margin-top: 150px;
+    width: 600px;
+    height: 500px;
+    margin-left: 600px;
+    
+  }
