@@ -2,7 +2,7 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  background: linear-gradient(135deg, #f8e4e4, #fae0e0);
+  background: linear-gradient(135deg, #fce4e4, #fdf0f0,);
     animation: backgroundAnimation 10s infinite alternate;
   
 }
@@ -11,7 +11,7 @@
     height: 100vh;
     width: 100vw;
     margin: auto;
-    background: linear-gradient(135deg, #f8e4e4, #fae0e0);
+    background: linear-gradient(135deg, #fce4e4, #fdf0f0);
     animation: backgroundAnimation 10s infinite alternate;
 }
  
