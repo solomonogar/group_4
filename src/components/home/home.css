@@ -9,7 +9,7 @@
   font-size: 550%;
   font-family: sans-serif;
   text-align: center;
-  padding-top: 0px;
+  padding-top: 60px;
   opacity: 0.9;
   position: relative;
   
@@ -18,8 +18,8 @@
   content: '|';
   position: absolute;
   right: 0;
-  color:#fce8e8 ;
-  background-color: #fce8e8;
+  color:#fce4e4 ;
+  background-color: #fce4e4;
   width: 100%;
   animation: typing 3s steps(50) infinite;
 }
@@ -31,15 +31,25 @@
 
 .home-area{
   align-content: center;
+  background: linear-gradient( #fce4e4 , white );
 }
 .welc__main{
   display: flex;
-  padding-left: 65px;
-  padding-right: 40px;
+  padding-left: 85px;
+  padding-right: 30px;
   text-align: center;
   opacity: 0.9;
-  font-family:'Montserrat', sans-serif;;
-
+  font-family:'Montserrat', sans-serif;
+}
+.inner-welc{
+  display: flex;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 10px;
+  text-align: center;
+  opacity: 0.9;
+  font-size: 110%;
+  font-family:'Montserrat', sans-serif;
 }
 .welcome__top{
   font-style: italic;
@@ -77,6 +87,7 @@
   height: 500px;
   margin-left: 0px;
   margin-right: 180px;
+  margin-top: -20px;
   
 }  
 
@@ -143,6 +154,7 @@ padding-left: 250px;
   height: 500px;
   margin-left: 0px;
   margin-right: 180px;
+  margin-top: -30px;
 }
 .increase-contianer{
   display: flex;

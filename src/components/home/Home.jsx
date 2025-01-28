@@ -13,6 +13,7 @@ const Home = () => {
   return (
     <div>
       <div className='home-area'>
+        <div className='first-container'>
           <div className="welcome__contianer">
             <span> <h1 className="welcome">Wendy Ju</h1></span>
           </div>
@@ -20,19 +21,20 @@ const Home = () => {
           <div className="welc__main">
             <img className='logos' src= {noun} alt='a logo'/>
             <p className="welcome__top">noun.</p>        
-            product designer,<br/> visual storyteller
+           <div className='inner-welc'> product designer,<br/> visual storyteller</div>
         </div>
         <div class="welc__main">
             <img className='logos' src= {adj} alt='a logo'/>
            <p class="welcome__top">adj.</p> 
-            curious, caring,<br/> detail-oriented
+           <div className='inner-welc'> curious, caring,<br/> detail-oriented</div>
         </div>
         <div class="welc__main">
             <img className='logos' src={verb} alt='a logo'/>
             <p class="welcome__top">verb.</p>
-            raises thoughtful<br/> questions to challenge<br/> norms
+           <div className='inner-welc'> raises thoughtful<br/> questions to challenge<br/> norms</div>
         </div>
-        </div>  
+        </div> 
+        </div> 
         <div className='client-contianer'>
           <div className='client-main'>
             <p className='client'><b>Client: inQ Services</b></p>
