@@ -1,164 +1,164 @@
 .welcome__contianer{
-    margin-top: 80px;
-    text-align: center;
-    justify-content: center;
-    display: flex;
-  }
-  .welcome{
-    font-weight: 700;
-    font-size: 550%;
-    font-family: sans-serif;
-    text-align: center;
-    padding-top: 0px;
-    opacity: 0.9;
-    position: relative;
-    
+  margin-top: 80px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+.welcome{
+  font-weight: 700;
+  font-size: 550%;
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 0px;
+  opacity: 0.9;
+  position: relative;
+  
 }
 .welcome::after{
-    content: '|';
-    position: absolute;
-    right: 0;
-    color:#fce8e8 ;
-    background-color: #fce8e8;
-    width: 100%;
-    animation: typing 3s steps(50) infinite;
+  content: '|';
+  position: absolute;
+  right: 0;
+  color:#fce8e8 ;
+  background-color: #fce8e8;
+  width: 100%;
+  animation: typing 3s steps(50) infinite;
+}
+@keyframes typing{
+  to{
+    width: 0%;
   }
-  @keyframes typing{
-    to{
-      width: 0%;
-    }
-  }
+}
 
-  .home-area{
-    align-content: center;
-  }
-  .welc__main{
-    display: flex;
-    padding-left: 65px;
-    padding-right: 40px;
-    text-align: center;
-    opacity: 0.9;
-    font-family:'Montserrat', sans-serif;;
+.home-area{
+  align-content: center;
+}
+.welc__main{
+  display: flex;
+  padding-left: 65px;
+  padding-right: 40px;
+  text-align: center;
+  opacity: 0.9;
+  font-family:'Montserrat', sans-serif;;
 
-  }
-  .welcome__top{
-    font-style: italic;
-    font-size: large;
-    font-weight: 600;
-    font-family: "Arial Narrow", Arial, sans-serif;
-    position: absolute;
-    margin-top: -40px;
-    margin-left: 90px;
-    font-stretch: expanded;
-    
-  }
-  .logos{
-    width: 80px;
-    height: 50px;
-    margin-top: 0px;
-    position: absolute;
-    padding-bottom: 8px;
-    margin-top: -90px;
-    margin-left: 65px;
-    opacity: 0.9;
-  }
-  #welcome__body{
-    justify-content: center;
-    display: inline-flex;
-    font-size: 150%;
-    font-weight: 500;
-    font-style: normal;
-    font-family: sans-serif;
-    margin-left: 160px;
-    margin-top: 150px;
-  }
-  .fisrtpic{
-    width: 700px;
-    height: 500px;
-    margin-left: 0px;
-    margin-right: 180px;
-    
-  }  
-
-  .client-contianer{
-    display: flex;
-    margin-top: 100px;
-
-  }
-  .client-main{
-    padding-top: 250px;
-    padding-left: 190px;
-    
-  }
-  .client{
-    color: rgb(179, 5, 5);
-    font-style: italic;
-    font-family: 'Righteous'    ;
-    padding-bottom: 0px;
-
-  }
-  .increase{
-    font-size: x-large;
-    font-weight: 700;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-bottom: 20px;
-    color: black;
-    opacity: 0.7;
-
-  }
-  .product{
-    color: black;
-  }
+}
+.welcome__top{
+  font-style: italic;
+  font-size: large;
+  font-weight: 600;
+  font-family: "Arial Narrow", Arial, sans-serif;
+  position: absolute;
+  margin-top: -40px;
+  margin-left: 90px;
+  font-stretch: expanded;
   
-  .secondpic{
-    width: 650px;
-    height: 500px;
-    margin-left: 180px;
-    margin-right: 50px;
-  }
-  .empower-contianer{
-    display: flex;
-    margin-top: 150px;
-  }
-  .empower{
-    font-size: x-large;
-    font-weight: 700;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: black;
-    padding-top: 280px ;
-    opacity: 0.7;
-  }
-  .enhance-contianer{
-    display: flex;
-    margin-top: 120px;
+}
+.logos{
+  width: 80px;
+  height: 50px;
+  margin-top: 0px;
+  position: absolute;
+  padding-bottom: 8px;
+  margin-top: -90px;
+  margin-left: 65px;
+  opacity: 0.9;
+}
+#welcome__body{
+  justify-content: center;
+  display: inline-flex;
+  font-size: 150%;
+  font-weight: 500;
+  font-style: normal;
+  font-family: sans-serif;
+  margin-left: 160px;
+  margin-top: 150px;
+}
+.fisrtpic{
+  width: 700px;
+  height: 500px;
+  margin-left: 0px;
+  margin-right: 180px;
   
+}  
+
+.client-contianer{
+  display: flex;
+  margin-top: 100px;
+
+}
+.client-main{
+  padding-top: 250px;
+  padding-left: 190px;
   
+}
+.client{
+  color: rgb(179, 5, 5);
+  font-style: italic;
+  font-family: 'Righteous'    ;
+  padding-bottom: 0px;
+
+}
+.increase{
+  font-size: x-large;
+  font-weight: 700;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-bottom: 20px;
+  color: black;
+  opacity: 0.7;
+
+}
+.product{
+  color: black;
+}
+
+.secondpic{
+  width: 650px;
+  height: 500px;
+  margin-left: 180px;
+  margin-right: 50px;
+}
+.empower-contianer{
+  display: flex;
+  margin-top: 150px;
+}
+.empower{
+  font-size: x-large;
+  font-weight: 700;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: black;
+  padding-top: 280px ;
+  opacity: 0.7;
+}
+.enhance-contianer{
+  display: flex;
+  margin-top: 120px;
+
+
 }
 .enhance-main{
-  padding-top: 250px;
-  padding-left: 250px;
+padding-top: 250px;
+padding-left: 250px;
 }
 .thirdpic{
-    width: 100vw;
-    height: 500px;
-    margin-left: 0px;
-    margin-right: 180px;
-  }
-  .increase-contianer{
-    display: flex;
-    margin-top: 120px;
-  }
-  .forthpic{
-    width: 50vw;
-    height: 500px;
-    margin-left: 180px;
-    margin-right: 50px;
-  }
-  .increasing{
-    font-size: x-large;
-    font-weight: 700;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: black;
-    padding-top: 250px ;
-    opacity: 0.7;
-  }
+  width: 100vw;
+  height: 500px;
+  margin-left: 0px;
+  margin-right: 180px;
+}
+.increase-contianer{
+  display: flex;
+  margin-top: 120px;
+}
+.forthpic{
+  width: 50vw;
+  height: 500px;
+  margin-left: 180px;
+  margin-right: 50px;
+}
+.increasing{
+  font-size: x-large;
+  font-weight: 700;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: black;
+  padding-top: 250px ;
+  opacity: 0.7;
+}

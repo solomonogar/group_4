@@ -1,0 +1,182 @@
+[33mcommit dfda621892f98e2d5fbcc1e5031084df81a77acc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mHome[m[33m, [m[1;31morigin/Home[m[33m, [m[1;32mmain[m[33m)[m
+Merge: f4620e4 883017b
+Author: Goodness-1000 <72920177+Goodness-1000@users.noreply.github.com>
+Date:   Mon Jan 27 11:37:17 2025 +0100
+
+    Merge branch 'main' into Home
+
+[33mcommit f4620e403b18450a2fc8933ea795a82ef33fb264[m
+Author: Goodness Waino <goodnessjohnwaino@gmail.com>
+Date:   Mon Jan 27 11:33:58 2025 +0100
+
+    finishing touches
+
+[33mcommit 883017bd6356a4c5eb3201afb89524e5e2979d2d[m
+Merge: 2370403 1ca4a4b
+Author: Goodness-1000 <72920177+Goodness-1000@users.noreply.github.com>
+Date:   Mon Jan 27 11:18:31 2025 +0100
+
+    Merge pull request #4 from solomonogar/AboutPage
+    
+    about Page added
+
+[33mcommit 1ca4a4b9ab6f238e5c106e3bfa2865286a12d829[m
+Merge: cde5598 2370403
+Author: Goodness-1000 <72920177+Goodness-1000@users.noreply.github.com>
+Date:   Mon Jan 27 11:13:23 2025 +0100
+
+    Merge branch 'main' into AboutPage
+
+[33mcommit cde55986447609ddd5d08df9c698ecebe3c05990[m
+Author: Augustine Chinaemerem Eneh <enehaugustine01@gmail.comm>
+Date:   Sun Jan 26 23:35:36 2025 +0100
+
+    about Page added
+
+[33mcommit 23704032547a66cb0ad33af3bfa099d015e12c13[m
+Merge: 999372c 4534a62
+Author: Goodness-1000 <72920177+Goodness-1000@users.noreply.github.com>
+Date:   Mon Jan 20 17:27:05 2025 +0100
+
+    Merge pull request #3 from solomonogar/Home
+    
+    finished working on home
+
+[33mcommit 4534a622be3f96d2e031832fa4c3b2b6835cb7f0[m
+Author: Goodness Waino <goodnessjohnwaino@gmail.com>
+Date:   Mon Jan 20 16:35:10 2025 +0100
+
+    finished working on home
+
+[33mcommit 999372cb38986464110a65b90ac64528fba955d5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 4c3f03d 9a38882
+Author: Goodness-1000 <72920177+Goodness-1000@users.noreply.github.com>
+Date:   Thu Jan 16 15:26:04 2025 +0100
+
+    Merge pull request #2 from solomonogar/Home
+    
+    finished first part of home
+
+[33mcommit 9a3888284ab0fc939757241002ee31abd2821eed[m
+Author: Goodness Waino <goodnessjohnwaino@gmail.com>
+Date:   Thu Jan 16 15:24:50 2025 +0100
+
+    finished first part of home
+
+[33mcommit 4c3f03d25d9604662b5767685f269b007b8b76b9[m
+Merge: 947166b e24c3b4
+Author: Goodness-1000 <72920177+Goodness-1000@users.noreply.github.com>
+Date:   Thu Jan 16 13:12:33 2025 +0100
+
+    Merge pull request #1 from solomonogar/Home
+    
+    started work on home
+
+[33mcommit e24c3b4278d7d3168d24a18c7f1b195c130a0883[m
+Author: Goodness Waino <goodnessjohnwaino@gmail.com>
+Date:   Thu Jan 16 13:09:42 2025 +0100
+
+    started work on home
+
+[33mcommit 947166ba22d60aa55e66d92f452bb57e8443300d[m
+Author: solomonogar <solomonogar83@gmail.com>
+Date:   Tue Jan 14 23:47:19 2025 -0500
+
+    initial commit
+
+[33mcommit b70feb6623ac8117c3ce2a8a5c9cd61c39f9c0dc[m
+Author: solomonogar <solomonogar83@gmail.com>
+Date:   Tue Jan 14 10:06:28 2025 -0500
+
+    first commit
+[33mcommit dfda621892f98e2d5fbcc1e5031084df81a77acc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/Home[m[33m, [m[1;32mHome[m[33m)[m
+Merge: f4620e4 883017b
+Author: Goodness-1000 <72920177+Goodness-1000@users.noreply.github.com>
+Date:   Mon Jan 27 11:37:17 2025 +0100
+
+    Merge branch 'main' into Home
+
+[33mcommit f4620e403b18450a2fc8933ea795a82ef33fb264[m
+Author: Goodness Waino <goodnessjohnwaino@gmail.com>
+Date:   Mon Jan 27 11:33:58 2025 +0100
+
+    finishing touches
+
+[33mcommit 883017bd6356a4c5eb3201afb89524e5e2979d2d[m
+Merge: 2370403 1ca4a4b
+Author: Goodness-1000 <72920177+Goodness-1000@users.noreply.github.com>
+Date:   Mon Jan 27 11:18:31 2025 +0100
+
+    Merge pull request #4 from solomonogar/AboutPage
+    
+    about Page added
+
+[33mcommit 1ca4a4b9ab6f238e5c106e3bfa2865286a12d829[m
+Merge: cde5598 2370403
+Author: Goodness-1000 <72920177+Goodness-1000@users.noreply.github.com>
+Date:   Mon Jan 27 11:13:23 2025 +0100
+
+    Merge branch 'main' into AboutPage
+
+[33mcommit cde55986447609ddd5d08df9c698ecebe3c05990[m
+Author: Augustine Chinaemerem Eneh <enehaugustine01@gmail.comm>
+Date:   Sun Jan 26 23:35:36 2025 +0100
+
+    about Page added
+
+[33mcommit 23704032547a66cb0ad33af3bfa099d015e12c13[m
+Merge: 999372c 4534a62
+Author: Goodness-1000 <72920177+Goodness-1000@users.noreply.github.com>
+Date:   Mon Jan 20 17:27:05 2025 +0100
+
+    Merge pull request #3 from solomonogar/Home
+    
+    finished working on home
+
+[33mcommit 4534a622be3f96d2e031832fa4c3b2b6835cb7f0[m
+Author: Goodness Waino <goodnessjohnwaino@gmail.com>
+Date:   Mon Jan 20 16:35:10 2025 +0100
+
+    finished working on home
+
+[33mcommit 999372cb38986464110a65b90ac64528fba955d5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 4c3f03d 9a38882
+Author: Goodness-1000 <72920177+Goodness-1000@users.noreply.github.com>
+Date:   Thu Jan 16 15:26:04 2025 +0100
+
+    Merge pull request #2 from solomonogar/Home
+    
+    finished first part of home
+
+[33mcommit 9a3888284ab0fc939757241002ee31abd2821eed[m
+Author: Goodness Waino <goodnessjohnwaino@gmail.com>
+Date:   Thu Jan 16 15:24:50 2025 +0100
+
+    finished first part of home
+
+[33mcommit 4c3f03d25d9604662b5767685f269b007b8b76b9[m
+Merge: 947166b e24c3b4
+Author: Goodness-1000 <72920177+Goodness-1000@users.noreply.github.com>
+Date:   Thu Jan 16 13:12:33 2025 +0100
+
+    Merge pull request #1 from solomonogar/Home
+    
+    started work on home
+
+[33mcommit e24c3b4278d7d3168d24a18c7f1b195c130a0883[m
+Author: Goodness Waino <goodnessjohnwaino@gmail.com>
+Date:   Thu Jan 16 13:09:42 2025 +0100
+
+    started work on home
+
+[33mcommit 947166ba22d60aa55e66d92f452bb57e8443300d[m
+Author: solomonogar <solomonogar83@gmail.com>
+Date:   Tue Jan 14 23:47:19 2025 -0500
+
+    initial commit
+
+[33mcommit b70feb6623ac8117c3ce2a8a5c9cd61c39f9c0dc[m
+Author: solomonogar <solomonogar83@gmail.com>
+Date:   Tue Jan 14 10:06:28 2025 -0500
+
+    first commit
