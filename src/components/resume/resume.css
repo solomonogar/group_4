@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+    }
+.container{
+    background-color: #fce8e8;
+    padding: 2px;
+}
+.wenxin{
+    height: 20%;
+    width: 50%;
+    align-items: start;
+    justify-content: center;
+    padding: 2%;
+    /* background-color: blue; */
+    /* padding: 4%; */
+    margin-left: 15%;
+    font-size: large;
+    margin-top: 5%;
+}
+  .end{
+    height: 20%;
+    width: 50%;
+    align-items: start;
+    justify-content: center;
+    padding: 2%;
+    /* background-color: rgb(85, 143, 47); */
+    /* padding: 4%; */
+    margin-left: 15%;
+    display: flex;
+    
+  }  
+  .experience{
+    height: 20%;
+    width: 65%;
+    align-items: start;
+    justify-content: center;
+    padding: 2%;
+    /* background-color: rgb(143, 47, 127); */
+    margin-right: 17%;
+    margin-top: 3%;
+
+  }
+  .wenexp{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  .wenend{
+    align-items: center;
+    /* display: grid; */
+
+  }
+  .edu{
+    height: 20%;
+    width: 50%;
+    align-items: center;
+    justify-content: start;
+    padding: 2%;
+    /* background-color: rgb(85, 143, 47); */
+    /* padding: 4%; */
+    margin-left: 6%;
+    display: grid;
+
+  }
+  .prod{
+    height: 20%;
+    width: 50%;
+    align-items: start;
+    justify-content: center;
+    padding: 2%;
+    /* background-color: rgb(143, 47, 127); */
+    /* padding: 4%; */
+    margin-right: 15%;
+    /* margin-left: 5%; */
+    font-size: medium;
+    
+  }
+  .eduprod{
+    align-items: start;
+    justify-content: start;
+    display: flex;
+  }
