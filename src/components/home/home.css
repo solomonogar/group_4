@@ -1,10 +1,10 @@
-.welcome__contianer{
+.welcome__contianer {
   margin-top: 80px;
   text-align: center;
   justify-content: center;
   display: flex;
 }
-.welcome{
+.welcome {
   font-weight: 700;
   font-size: 550%;
   font-family: sans-serif;
@@ -12,36 +12,35 @@
   padding-top: 60px;
   opacity: 0.9;
   position: relative;
-  
 }
-.welcome::after{
-  content: '|';
+.welcome::after {
+  content: "|";
   position: absolute;
   right: 0;
-  color:#fce4e4 ;
+  color: #fce4e4;
   background-color: #fce4e4;
   width: 100%;
   animation: typing 3s steps(50) infinite;
 }
-@keyframes typing{
-  to{
+@keyframes typing {
+  to {
     width: 0%;
   }
 }
 
-.home-area{
+.home-area {
   align-content: center;
-  background: linear-gradient( #fce4e4 , white );
+  background: linear-gradient(#fce4e4, white);
 }
-.welc__main{
+.welc__main {
   display: flex;
   padding-left: 85px;
   padding-right: 30px;
   text-align: center;
   opacity: 0.9;
-  font-family:'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
-.inner-welc{
+.inner-welc {
   display: flex;
   padding-left: 0px;
   padding-right: 0px;
@@ -49,9 +48,9 @@
   text-align: center;
   opacity: 0.9;
   font-size: 110%;
-  font-family:'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
-.welcome__top{
+.welcome__top {
   font-style: italic;
   font-size: large;
   font-weight: 600;
@@ -60,9 +59,8 @@
   margin-top: -40px;
   margin-left: 90px;
   font-stretch: expanded;
-  
 }
-.logos{
+.logos {
   width: 80px;
   height: 50px;
   margin-top: 0px;
@@ -72,7 +70,7 @@
   margin-left: 65px;
   opacity: 0.9;
 }
-#welcome__body{
+#welcome__body {
   justify-content: center;
   display: inline-flex;
   font-size: 150%;
@@ -82,95 +80,89 @@
   margin-left: 160px;
   margin-top: 150px;
 }
-.fisrtpic{
+
+.fisrtpic {
   width: 700px;
   height: 500px;
   margin-left: 0px;
   margin-right: 180px;
   margin-top: -20px;
-  
-}  
+}
 
-.client-contianer{
+.client-contianer {
   display: flex;
   margin-top: 100px;
-
 }
-.client-main{
+.client-main {
   padding-top: 250px;
   padding-left: 190px;
-  
 }
-.client{
+.client {
   color: rgb(179, 5, 5);
   font-style: italic;
-  font-family: 'Righteous'    ;
+  font-family: "Righteous";
   padding-bottom: 0px;
-
 }
-.increase{
+.increase {
   font-size: x-large;
   font-weight: 700;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   padding-bottom: 20px;
   color: black;
   opacity: 0.7;
-
 }
-.product{
+.product {
   color: black;
 }
 
-.secondpic{
+.secondpic {
   width: 650px;
   height: 500px;
   margin-left: 180px;
   margin-right: 50px;
 }
-.empower-contianer{
+.empower-contianer {
   display: flex;
   margin-top: 150px;
 }
-.empower{
+.empower {
   font-size: x-large;
   font-weight: 700;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   color: black;
-  padding-top: 280px ;
+  padding-top: 280px;
   opacity: 0.7;
 }
-.enhance-contianer{
+.enhance-contianer {
   display: flex;
   margin-top: 120px;
-
-
 }
-.enhance-main{
-padding-top: 250px;
-padding-left: 250px;
+.enhance-main {
+  padding-top: 250px;
+  padding-left: 250px;
 }
-.thirdpic{
+.thirdpic {
   width: 100vw;
   height: 500px;
   margin-left: 0px;
   margin-right: 180px;
   margin-top: -30px;
 }
-.increase-contianer{
+.increase-contianer {
   display: flex;
   margin-top: 120px;
 }
-.forthpic{
+.forthpic {
   width: 50vw;
   height: 500px;
   margin-left: 180px;
   margin-right: 50px;
 }
-.increasing{
+.increasing {
   font-size: x-large;
   font-weight: 700;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   color: black;
-  padding-top: 250px ;
+  padding-top: 250px;
   opacity: 0.7;
 }
