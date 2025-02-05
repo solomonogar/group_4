@@ -1,8 +1,7 @@
- import React from "react";
+import React from "react";
 import "./About.css";
 const About = () => {
   return (
-    <div>About</div>
     <>
       <main>
         <div className="banner">
@@ -124,7 +123,7 @@ const About = () => {
               </a>
             </p>
           </div>
-         </section>
+        </section>
       </main>
     </>
   );
