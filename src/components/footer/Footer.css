@@ -1,0 +1,29 @@
+footer {
+  height: 20vh;
+  display: grid;
+  place-items: center;
+}
+.footer-content-containner {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  font-size: 1.6rem;
+  align-items: baseline;
+}
+.footer-content-containner span {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+.fa-envelope {
+  padding-left: 3rem;
+}
+.copyright {
+  display: flex;
+  justify-content: center;
+  font-size: 0.85rem;
+}
+.reserved {
+  display: flex;
+  justify-self: center;
+  font-size: 0.9rem;
+}
