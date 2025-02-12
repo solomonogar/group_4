@@ -1,5 +1,6 @@
 import React from "react";
 import "./About.css";
+import Footer from "../footer/Footer";
 const About = () => {
   return (
     <>
@@ -125,6 +126,7 @@ const About = () => {
           </div>
         </section>
       </main>
+      <Footer />
     </>
   );
 };
